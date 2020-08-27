@@ -4,8 +4,8 @@
   "description": "JavaScript example starter project",
   "main": "index.html",
   "scripts": {
-    "start": "parcel src/index.html --open",
-    "build": "parcel build src/index.html"
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
   },
   "dependencies": {
     "bootstrap": "4.5.2"
